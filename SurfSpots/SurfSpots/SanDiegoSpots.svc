@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="SurfSpots.SanDiegoSpots" CodeBehind="SanDiegoSpots.svc.cs" %>
